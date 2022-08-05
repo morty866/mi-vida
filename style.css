@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.05em;
+}
+
+header{
+    width: 100%;
+    height: 70px;
+    background: lightyellow;
+}
+
+header h1{
+    padding-top: 25px;
+    text-align: center
+}
+
+.texto{
+    height: 100%;
+    background: rgb(248, 179, 179);
+    padding: 20px;
+}
+
+.texto .principal{
+    padding: 8px;
+}
+
+.texto h1{  
+    padding-bottom: 30px;
+    text-align: center
+}
+
+footer{
+    height: 10%;
+    background: rgb(197, 230, 241);
+    text-align: center;
+    padding: 10px;
+}
